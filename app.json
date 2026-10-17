@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Fisio DuVinci",
+    "slug": "fisio-duvinci",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
